@@ -1,0 +1,10 @@
+{
+  "name": "Tic-Tac-Toe Bot",
+  "version": "1.0.0",
+  "description": "An unbeatable Tic-Tac-Toe bot",
+  "main": "bot.js",
+  "author": "Tuan Le",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
